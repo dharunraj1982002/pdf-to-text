@@ -1,0 +1,284 @@
+Assembly Constituency No and Name : 15-Cumbarjua
+
+Section No and Name : 1-Malar, Sao Mathias
+
+HNL1399468
+Name: Trupti Bhomkar
+Husband's Name: Swapnil Bhomkar
+House Number : 7
+
+Age: 35 Gender: FEMALE Photo is
+
+Available
+
+RNM0340588
+Name: Premanand Dattaram Kerkar
+Father's Name : Dattaram Kerkar
+House Number : 8/2
+
+Age: 56 Gender: MALE Photo is
+
+Available
+
+CMG5973383
+Name: Sufalata Somnath Naik
+Husband's Name : Somnath Naik
+House Number: 9
+
+Age: 66 Gender: FEMALE Photo is
+
+Available
+
+B1Z5445945
+Name: Vaishali Naik
+Husband's Name : Subodh B Naik
+House Number: 9
+
+Age: 36 Gender: FEMALE Photo is
+
+Available
+
+CMG0970186
+Name : Manisha Morturao Verlekar
+Husband's Name : Morturao Verlekar
+House Number: 11
+
+Age: 44 Gender: FEMALE Photo is
+
+Available
+
+CNG8429862
+Name: Usha Pandurang Pilgaonkar
+Father's Name: Pandurang Pilgaonkar
+House Number: 13
+
+Age: 55 Gender: FEMALE Photo is
+
+Available
+
+RNM0340422
+Name: Rama Ladu Pilgaonkar
+Father's Name : Ladu Pilgaonkar
+House Number: 14
+
+Age: 58 Gender: MALE Photo is
+
+Available
+
+RNM0224022
+Name: Sarvesh P. Pilgaonkar
+Father's Name: Prakash Ladu
+Pilgaonkar
+
+House Number: 14 Photo is
+
+Available
+
+Age: 36 Gender: MALE
+
+RNM0300608
+Name: Rohit Rama Pilgaonkar
+Father's Name: Rama Ladu Pilgaonkar
+House Number: 14
+
+Age: 22 Gender: MALE Photo is
+
+Available
+
+RNMO0071795
+Name: Judith Trevor Anes
+Husband's Name : Trevor Anes
+House Number: 19
+
+Age: 52 Gender: FEMALE Photo is
+
+Available
+
+Age as on 01.01.2023
+
+RNM0232645
+Name : Caitan Matias Caitano Menezes
+Father's Name: Caitano Menezes
+House Number: 7
+
+Age: 50 Gender: MALE Photo is
+
+Available
+
+CMG9030917
+Name: Pryanka Premanand Kerkar
+Husband's Name - Premanand Kerkar
+House Number : 8/2
+
+Age: 53 Gender: FEMALE Photo is
+
+Available
+
+CMG5972989
+Name: Sulaksha Somnath Naik
+Father's Name : Somnath Naik
+House Number: 9
+
+Age: 39 Gender: FEMALE Photo is
+
+Available
+
+RNM0340570
+Name: Narayan Shripad Verlekar
+Father's Name: Shripad Verlekar
+House Number: 11
+
+Age: 54 Gender: MALE Photo is
+
+Available
+
+CMG0976985
+Name: Nisha Narayan Verlekar
+Husband's Name : Narayan Verlekar
+House Number: 11
+
+Age: 44 Gender: FEMALE Photo is
+
+Available
+
+RNM0340448
+Name: Prakash Ladu Pilgaonkar
+Father's Name : Ladu Pilgaonkar
+House Number: 14
+
+Age: 70 Gender: MALE Photo is
+
+Available
+
+CMG5973342
+Name: Rohini Rama Pilgaonkar
+Husband's Name - Rama Pilgaonkar
+House Number: 14
+
+Age: 53 Gender: FEMALE Photo is
+
+Available
+
+RNM0243352
+Name: Rashila Pilgaonkar
+Husband's Name: Yogesh Prakash
+Pilgaonkar
+House Number: 14
+Age: 33 Gender: FEMALE
+
+Photo is
+Available
+
+CMG5973375
+Name: Satyavati Datta Kerkar
+Husband's Name: Datta Kerkar
+House Number: 17/A
+
+Age: 74 Gender: FEMALE Photo is
+
+Available
+
+RNMO0071621
+Name: Jose Trevor Anes
+Father's Name : Jose Victoria Anes
+House Number: 19
+
+Age: 52 Gender: MALE Photo is
+
+Available
+
+Date of Publication:-01-11-2022
+
+Part number: 2
+
+RNM0232660
+Name : Shamin Caitan Menezes
+Husband's Name: Caitan Mathias
+Menezes
+House Number: 7
+Age: 47 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0280842
+Name: Dattaram Premanand Kerkar
+Father's Name : Premanand Kerkar
+House Number: 8/2
+
+Age: 25 Gender: MALE Photo is
+
+Available
+
+CMG0981621
+Name: Subodh Somnath Naik
+Father's Name : Somnath Naik
+House Number: 9
+
+Age: 37 Gender: MALE Photo is
+
+Available
+
+RNM0352583
+Name: Morturao Shripad Verlekar
+Father's Name: Shripad Verlekar
+House Number: 11
+
+Age: 51 Gender: MALE Photo is
+
+Available
+
+RNM0208231
+Name: Visharanti Pandurang Pilgaonkar
+Father's Name - Pandurang Pilgaonkar
+House Number: 13
+
+Age: 56 Gender: FEMALE Photo is
+
+Available
+
+RNM0340430
+Name: Prashati Prakash Pilgaonkar
+Husband's Name: Prakash Pilgaonkar
+House Number: 14
+
+Age: 63 Gender: FEMALE Photo is
+
+Available
+
+CMG0941286
+Name: Yogesh Prakash Pilgaonkar
+Father's Name : Prakash Pilgaonkar
+House Number: 14
+Age: 38 Gender: MALE Photo is
+
+Available
+
+YCC0322131
+Name: Siya Pilgaonkar
+Husband's Name: Sarvesh Pilgaonkar
+House Number: 14
+
+Age: 31 Gender: FEMALE Photo is
+
+Available
+
+RNM0305813
+Name: SUNITA DATTA NAIK
+Mother's Name: Satyavati Naik
+House Number: 17/A
+
+Age: 47 Gender: FEMALE Photo is
+
+Available
+
+RNM0340364
+Name: Sushila Datta Priolkar
+Husband's Name : Datta Priolkar
+House Number: 20/1
+
+Age: 80 Gender: FEMALE Photo is
+
+Available
+
+Total Pages 28 - Page 4

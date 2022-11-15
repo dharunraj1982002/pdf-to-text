@@ -1,0 +1,334 @@
+Assembly Constituency No and Name : 15-Cumbarjua
+
+Section No and Name : 1-Malar, Sao Mathias
+
+Name: Twain Anthony Vaz
+
+Mother's Name: Thelma Conception
+Vaz
+
+House Number: 179
+
+Age: 23 Gender: MALE
+
+Name: Maczill Vaz
+
+Father's Name: Melca Leandro Olivia
+Vaz
+
+House Number: 182
+
+Age: 26 Gender: MALE
+
+Name: Ankita Rawal
+
+Father's Name: Jayant Rawal
+House Number: 189/1
+
+Age: 26 Gender: FEMALE
+
+Name: Santoshi Morajkar
+Father's Name - Ramdas Morajkar
+House Number: 190/1
+
+Age: 26 Gender: FEMALE
+
+Name: Sanjay Kashinath Kundaikar
+Father's Name : Kashinath Kundaikar
+House Number: 191
+
+Age: 46 Gender: MALE
+
+Name: Saroj Kashinath Kundaikar
+Father's Name : Kashinath Kundaikar
+House Number: 191
+
+Age: 35 Gender: MALE
+
+Name : Namdev Narayan Mayenkar
+Father's Name : Narayan Mayenkar
+House Number: 192/1
+
+Age: 68 Gender: MALE
+
+Name: Shradha Shrikant Mayenkar
+Husband's Name: Shrikant Mayenkar
+House Number: 192/1
+
+Age: 62 Gender: FEMALE
+
+Name: Ashwin Mayenkar
+
+Father's Name: Shrikant Mayenkar
+House Number: 192/2
+
+Age: 28 Gender: MALE
+
+Name: Pragati Prakash Mayekar
+Father's Name: Prakash Mayekar
+House Number: 195
+
+Age: 24 Gender: FEMALE
+
+Age as on 01.01.2023
+
+RNM0307546
+
+Photo is
+Available
+
+RNM0273706
+
+Photo is
+Available
+
+RNM0273714
+
+Photo is
+Available
+
+RNM0272427
+
+Photo is
+Available
+
+CMG8434102
+
+Photo is
+Available
+
+CMG0940866
+
+Photo is
+Available
+
+RNM0346007
+
+Photo is
+Available
+
+CMG5974001
+
+Photo is
+Available
+
+RNM0261123
+
+Photo is
+Available
+
+RNM0283994
+
+Photo is
+Available
+
+Name: Joelyn Velanky Vaz
+Father's Name: Jose Carmino Vaz
+House Number: 179/1
+
+Age: 20 Gender: FEMALE
+
+Name: Joycee Perpetua Menezes
+Husband's Name: Anibal Jose Picardo
+House Number: 187/2
+
+Age: 46 Gender: FEMALE
+
+Name: Akshaya Rawal
+Father's Name: Ashok Rawal
+House Number: 189/1
+
+Age: 26 Gender: FEMALE
+
+Name: Ganga Yashwant Kundaikar
+
+Husband's Name: Yashwant Kundaikar
+
+House Number: 191
+Age: 98 Gender: FEMALE
+
+Name: Sangeeta Kundaikar
+Husband's Name : Sanjay Kundaikar
+House Number: 191
+
+Age: 45 Gender: FEMALE
+
+Name: Maria Filomena Pereira
+Father's Name : Francis Menezes
+House Number: 191
+
+Age: 64 Gender: FEMALE
+
+Name: Shrikant Mayenkar
+Father's Name : Narayan Mayenkar
+House Number : 192/1
+
+Age: 66 Gender: MALE
+
+Name: Sanika Neetin Mayenkar
+Husband's Name : Neetin Mayenkar
+House Number: 192/1
+
+Age: 32 Gender: FEMALE
+
+Name: Rameshwari Sameer
+Chodankar
+
+Husband's Name: Sameer Santosh
+Chodankar
+
+House Number: 195
+
+Age: 33 Gender: FEMALE
+
+Name: Satyawati Gangaram Sawant
+Husband's Name: Gangaram Sawant
+House Number: 195
+
+Age: 74 Gender: FEMALE
+
+Date of Publication:-01-11-2022
+
+RNM0355339
+
+Photo is
+Available
+
+CMG9030628
+
+Photo is
+Available
+
+RNM0273722
+
+Photo is
+Available
+
+CMG8434086
+
+Photo is
+Available
+
+RNM0190629
+
+Photo is
+Available
+
+RNM0257634
+
+Photo is
+Available
+
+RNM0212571
+
+Photo is
+Available
+
+RNM0277715
+
+Photo is
+Available
+
+UQA0385856
+
+Photo is
+Available
+
+RNM0345884
+
+Photo is
+Available
+
+Part number: 2
+
+RNM0273797
+Name: Derrick Menezes
+Father's Name: Gregory Menezes
+House Number: 180/1
+
+Age: 33 Gender: MALE Photo is
+
+Available
+
+RNM0295634
+Name: Arvind Rawal
+Father's Name : Ashok Rawal
+House Number: 189
+
+Age: 23 Gender: MALE Photo is
+
+Available
+
+RNM0346015
+Name: Alisha Rawal
+Husband's Name : Ashok Rawal
+House Number: 189/A
+
+Age: 55 Gender: FEMALE Photo is
+
+Available
+
+CMG0039289
+Name: Malini Kashinath Kundaikar
+Husband's Name : Kashinath Kundaikar
+House Number: 191
+
+Age: 68 Gender: FEMALE Photo is
+
+Available
+
+CMG0940858
+Name : Sonali Kashinath Kundaikar
+Father's Name : Kashinath Kundaikar
+House Number: 191
+
+Age: 38 Gender: FEMALE Photo is
+
+Available
+
+RNM0254664
+Name: Prasad Mayekar
+Father's Name - Namdev Mayekar
+House Number: 192/1
+
+Age: 35 Gender: MALE Photo is
+
+Available
+
+CMG0039040
+Name: Nandini Namdev Mayenkar
+Husband's Name : Namdev Mayenkar
+House Number : 192/1
+
+Age: 65 Gender: FEMALE Photo is
+
+Available
+
+RNM0243386
+Name - Nitin Mayenkar
+Father's Name: Shrikant Mayenkar
+House Number: 192/1
+
+Age: 32 Gender: MALE Photo is
+
+Available
+
+RNM0230813
+Name : Sneha Chodankar
+Father's Name: Santosh Chodankar
+House Number: 195
+
+Age: 30 Gender: FEMALE Photo is
+
+Available
+
+RNM0345876
+Name: Santosh Gangaram Sawant
+Father's Name - Gangaram Sawant
+House Number: 195
+
+Age: 51 Gender: MALE Photo is
+
+Available
+
+Total Pages 28 - Page 15

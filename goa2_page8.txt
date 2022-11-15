@@ -1,0 +1,324 @@
+Assembly Constituency No and Name : 15-Cumbarjua
+
+Section No and Name : 1-Malar, Sao Mathias
+
+Name: Sarah Colin Viegas
+Husband's Name: Colin Viegas
+House Number : 80
+
+Age: 57 Gender: FEMALE
+
+Name: Kezannedra Vianney Vaz
+Father's Name : Stanishlaus Vaz
+House Number: 80/1
+
+Age: 28 Gender: FEMALE
+
+Name: Sandeep Shiva Harijan
+Father's Name: Shiva Harijan
+House Number: 81/A
+
+Age: 41 Gender: MALE
+
+Name: Robin P. S. Crasto
+Father's Name: Kid Arnaldo Crasto
+House Number: 82
+
+Age: 60 Gender: MALE
+
+Name : Abigail Crasto
+
+Father's Name: Robin P. S. Crasto
+House Number: 82
+
+Age: 24 Gender: FEMALE
+
+Name: Marequinha Almeida
+Husband's Name: Manuel Almeida
+House Number : 82/3
+
+Age: 64 Gender: FEMALE
+
+Name: Oswin Edwin Vaz
+Father's Name: Edwin Vaz
+House Number: 85
+
+Age: 39 Gender: MALE
+
+Name: Roney Cipriano Menezes
+Father's Name: Cipriano Menezes
+House Number: 86
+
+Age: 49 Gender: MALE
+
+Name: Cliford Silveira
+Mother's Name : Flora Martires
+House Number: 87/2
+
+Age: 43 Gender: MALE
+
+Name: Artino Aureieo Menezes
+Father's Name: Aureiao Menezes
+House Number: 88
+
+Age: 60 Gender: MALE
+
+Age as on 01.01.2023
+
+CMG0425116
+
+Photo is
+Available
+
+RNM0279224
+
+Photo is
+Available
+
+CMG0882126
+
+Photo is
+Available
+
+RNM0192484
+
+Photo is
+Available
+
+RNM0284463
+
+Photo is
+Available
+
+RNM0208322
+
+Photo is
+Available
+
+CMG0882381
+
+Photo is
+Available
+
+CMG7567092
+
+Photo is
+Available
+
+RNM0307553
+
+Photo is
+Available
+
+CMG2946911
+
+Photo is
+Available
+
+Name: Haver Stanishiaus Vaz
+Husband's Name: Stanishiaus Vaz
+House Number: 80/1
+
+Age: 54 Gender: FEMALE
+
+Name: Prabhavati Shiva Harijan
+Husband's Name : Shiva Harijan
+House Number: 81/A
+
+Age: 71 Gender: FEMALE
+
+Name: Rakhee Shiva Harijan
+Father's Name: Shiva Harijan
+House Number: 81/A
+
+Age: 39 Gender: FEMALE
+
+Name: Arnaldo Francisco Crasto
+Father's Name: Robin P. S. Crasto
+House Number: 82
+
+Age: 28 Gender: MALE
+
+Name: Henry Francisco Menezes
+Father's Name: Francisco Menezes
+House Number : 82/2
+
+Age: 60 Gender: MALE
+
+Name: Edwin Mathias Vaz
+Father's Name: Nascimento Vaz
+House Number: 84
+
+Age: 67 Gender: MALE
+
+Name: Neil Edwin Vaz
+Father's Name: Edwin Vaz
+House Number: 85
+
+Age: 37 Gender: MALE
+
+Name: Sandra Viela Martins
+Husband's Name : Cliford Silveira
+House Number: 87/2
+
+Age: 36 Gender: FEMALE
+
+Name: Cheryl Francisco Silveira
+Father's Name : Francisco Silveira
+House Number: 87/2
+
+Age: 38 Gender: FEMALE
+
+Name: Allen Agnelo Higino Menezes
+Wife's Name: Perpetual Menezes
+House Number: 88(1)
+
+Age: 64 Gender: MALE
+
+Date of Publication:-01-11-2022
+
+CMG0882043
+
+Photo is
+Available
+
+CMG0882332
+
+Photo is
+Available
+
+RNM0236042
+
+Photo is
+Available
+
+RNM0276493
+
+Photo is
+Available
+
+RNM0339366
+
+Photo is
+Available
+
+CMG0941104
+
+Photo is
+Available
+
+CMG0941088
+
+Photo is
+Available
+
+UQA0239848
+
+Photo is
+Available
+
+RNMO0076141
+
+Photo is
+Available
+
+RNM0362004
+
+Photo is
+Available
+
+Part number: 2
+
+CMG0882225
+Name : Stanishiaus Damiao Vaz
+Father's Name: Dimiao Vaz
+House Number : 80/1
+
+Age : 53 Gender: MALE Photo is
+
+Available
+
+CMG0882191
+Name: Ajit Shiva Harijan
+Father's Name: Shiva Harijan
+House Number: 81/A
+Age: 46 Gender: MALE Photo is
+Available
+
+RNM0192500
+Name: Carmina Rodrigues Crasto
+Husband's Name: Robin P. S. Crasto
+House Number: 82
+
+Age: 60 Gender: FEMALE Photo is
+
+Available
+
+RNM0272419
+Name : Amanda Crasto
+Father's Name : Robin Perpetual
+Socorro Crasto
+House Number: 82
+Age: 26 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0339358
+Name: Francisco E. Francisco
+Menezes
+Father's Name: Francisco Menezes
+House Number : 82/2
+Age: 59 Gender: MALE
+
+Photo is
+Available
+
+CMG0941096
+Name: Maria Afla Vaz
+Husband's Name : Edwin Vaz
+House Number: 85
+
+Age: 66 Gender: FEMALE Photo is
+
+Available
+
+CMG0941336
+Name : Carmina Almeida
+Husband's Name: Matias Francisco De
+Menezes
+House Number: 86
+Age: 45 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0307793
+Name: Flora Martires
+Husband's Name : Francisco Silveira
+House Number: 87/2
+
+Age: 69 Gender: FEMALE Photo is
+
+Available
+
+RNM0236588
+Name : Sulana Aureieo Menezes
+Father's Name: Aureiao Menezes
+House Number: 88
+
+Age: 62 Gender: FEMALE Photo is
+
+Available
+
+RNM0203133
+Name: Albano Romeo Damiao
+Menezes
+Father's Name: Aurelio Menezes
+House Number : 88/1
+Age: 58 Gender: MALE
+
+Photo is
+Available
+
+Total Pages 28 - Page 9

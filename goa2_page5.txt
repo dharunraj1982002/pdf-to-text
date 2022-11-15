@@ -1,0 +1,293 @@
+Assembly Constituency No and Name : 15-Cumbarjua
+
+Section No and Name : 1-Malar, Sao Mathias
+
+RNM0250381
+Name: Supriya Chari
+Father's Name: Vassudev Chari
+House Number: 29
+
+Age: 33 Gender: FEMALE Photo is
+
+Available
+
+RNM0340158
+Name: Joaquim Agnelo Menezes
+Father's Name: Agnelo Menezes
+House Number : 29/2
+
+Age: 50 Gender: MALE Photo is
+
+Available
+
+CMG0882076
+Name: Apolinario Francisco Coutinho
+Father's Name : Francisco Coutinho
+House Number: 31/2
+
+Age: 85 Gender: MALE Photo is
+
+Available
+
+RNM0256263
+Name: Cynthia Agnela Vaz E Coutinho
+Husband's Name : Francis Felix
+Coutinho
+House Number : 31/2
+Age: 39 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0193367
+Name : Nina Fernandes E Faria
+Husband's Name : Mario Faria
+House Number: 32/1
+
+Age: 62 Gender: FEMALE Photo is
+
+Available
+
+RNM0193375
+
+Name: Maria Luzia Joyce Barreto E
+Noronha
+
+Husband's Name: John Bernard Paes
+Faria
+
+House Number: 32/3
+
+Age: 51 Gender: FEMALE
+
+Photo is
+Available
+
+CMG0425058
+Name : Olinda Ferrao
+Husband's Name : Inacio Bernardo De
+Souza
+House Number: 35/1
+Age: 82 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0304816
+Name : Inacinho Agnelo Justino De
+Araujo
+Other's Name : Beatrice Mary Araujo
+
+House Number : 35-1 Photo is
+
+Available
+
+Age: 82 Gender: MALE
+
+CMG8438798
+Name: Joaquim Joao Pereira
+Father's Name : Joao Pereira
+House Number: 36/1
+
+Age: 72 Gender: MALE Photo is
+
+Available
+
+RNM0340026
+Name: Maria Hortencia Pacheco
+Husband's Name : Blasio Pacheco
+House Number: 36/2
+
+Age: 76 Gender: FEMALE Photo is
+
+Available
+
+Age as on 01.01.2023
+
+RNM0264804
+Name: Suraj Chari
+Father's Name: Vasudev Chari
+House Number : 29
+
+Age: 27 Gender: MALE Photo is
+
+Available
+
+RNM0243717
+Name : Liberata Demello E Menezes
+Husband's Name : Joaquim Agnelo
+Menezes
+House Number : 29/2
+Age: 45 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0340141
+Name: P_ R. Fatima Apolinario Coutinho
+Husband's Name: Apolinario Coutinho
+House Number: 31/2
+
+Age: 69 Gender: FEMALE Photo is
+
+Available
+
+RNM0340133
+Name : Zita Teofilo Faria
+Father's Name : Teofilo Faria
+House Number: 32/1
+
+Age: 97 Gender: FEMALE Photo is
+
+Available
+
+RNM0340125
+Name : Ramanand Vaman Keni
+Father's Name: Vaman Keni
+House Number: 32/2
+
+Age: 56 Gender: MALE Photo is
+
+Available
+
+RNM0340117
+Name : John Bernard Paes Faria
+Father's Name: Caetano Basilio Paes
+Faria
+House Number : 32/3
+Age: 61 Gender: MALE
+
+Photo is
+Available
+
+RNMO0076117
+Name : Erminia Assucena Joao
+Husband's Name : Pedro Eleuterio De
+Souza
+House Number: 35/1
+Age: 52 Gender: FEMALE
+
+Photo is
+Available
+
+CMG0425033
+Name : Inacio Bernardo De Souza
+Father's Name: Cipriano D'Souza
+House Number : 35/2
+
+Age: 90 Gender: MALE Photo is
+
+Available
+
+RNM0340034
+Name: Nancy Joaquim Pereira
+Husband's Name: Joaquim Pereira
+House Number : 36/1
+
+Age: 65 Gender: FEMALE Photo is
+
+Available
+
+RNM0340018
+Name: Franky Allwyn Pacheco
+Father's Name : Blasio Pacheco
+House Number = 36/2
+
+Age: 50 Gender: MALE Photo is
+
+Available
+
+Date of Publication:-01-11-2022
+
+Part number: 2
+
+RNM0340166
+Name: Fatima Agnelo Menezes
+Husband's Name: Agnelo Menezes
+House Number : 29/2
+
+Age: 78 Gender: FEMALE Photo is
+
+Available
+
+RNM0368746
+Name : Neil Martins
+Father's Name : Aulio Martins
+House Number: 31
+
+Age: 23 Gender: MALE Photo is
+
+Available
+
+CMG9030172
+Name: Francis Apolinario Coutinho
+Father's Name: Apolinario Coutinho
+House Number: 31/2
+Age: 44 Gender: MALE Photo is
+
+Available
+
+CMG0033316
+Name: Mario Teofilo Caitano Faria
+Father's Name: Caitano Faria
+House Number: 32/1
+
+Age: 63 Gender: MALE Photo is
+
+Available
+
+CMG5974225
+Name : Kalpana Ramanand Keni
+Husband's Name : Ramanand Keni
+House Number: 32/2
+
+Age: 46 Gender: FEMALE Photo is
+
+Available
+
+RNM0340042
+Name: Noneta De Souza
+Husband's Name: Agnelo L. De Sousa
+House Number: 35/1
+
+Age: 55 Gender: FEMALE Photo is
+
+Available
+
+RNM0304808
+Name: Beatrice Mary Araujo
+Husband's Name : Inacinho Agnelo
+Justino De Araujo
+House Number: 35-1
+Age: 80 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0308734
+Name: Pedro Eleuterio De Souza
+Father's Name : Inacio D'Souza
+House Number: 35/2
+Age: 54 Gender: MALE Photo is
+
+Available
+
+RNM0193458
+Name: Maria Jocela Pereira
+Father's Name: Joaquim Pereira
+House Number : 36/1
+
+Age: 35 Gender: FEMALE Photo is
+
+Available
+
+CMG8439267
+Name: Glenn Ventro Blasio Pacheco
+Father's Name : Blasio Pacheco
+House Number : 36/2
+
+Age: 49 Gender: MALE Photo is
+
+Available
+
+Total Pages 28 - Page 6

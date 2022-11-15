@@ -1,0 +1,319 @@
+Assembly Constituency No and Name : 15-Cumbarjua
+
+Section No and Name : 1-Malar, Sao Mathias
+
+Name: Sandeep Gangaram Sawant
+Father's Name: Gangaram Sawant
+House Number: 195
+
+Age: 50 Gender: MALE
+
+Name: Sanjay Gangaram Sawant
+Father's Name: Gangaram Sawant
+House Number: 195
+
+Age: 47 Gender: MALE
+
+Name: Prajakta Prakash Mayenkar
+Husband's Name : Prakash Mayenkar
+House Number: 195/1
+
+Age: 53 Gender: FEMALE
+
+Name: Jayanti Balu Naik
+Father's Name : Balu Naik
+House Number: 195/1
+
+Age: 52 Gender: FEMALE
+
+Name: Shobhavati Sawant Subhedar
+Husband's Name: Vithoba Sawant
+Subhedar
+
+House Number: 195/2
+
+Age: 67 Gender: FEMALE
+
+Name: Vinay Sawant Subhedar
+Father's Name: Vithoba Sawant
+Subhedar
+
+House Number: 195/2
+
+Age: 42 Gender: MALE
+
+Name: Sonu Chandrakant Shirodkar
+
+Father's Name: Chandrakant Shirodkar
+
+House Number: 195/2
+Age: 45 Gender: MALE
+
+Name: Rudali Prabhakar Sawant
+Sarsubhedar
+
+Father's Name: Prabhakar Sawant
+Sarsubhedar
+
+House Number: 195/3
+
+Age: 21 Gender: FEMALE
+
+Name: Sameer Chodankar
+Father's Name : Santosh Chodankar
+House Number: 195/4
+
+Age: 38 Gender: MALE
+
+Name: Domitila Da Silva E Gomes
+Husband's Name: Marian Gomes
+House Number: 199
+
+Age: 82 Gender: FEMALE
+
+Age as on 01.01.2023
+
+RNM0345868
+
+Photo is
+Available
+
+CMG39030750
+
+Photo is
+Available
+
+RNM0219444
+
+Photo is
+Available
+
+RNM0345843
+
+Photo is
+Available
+
+RNM0345827
+
+Photo is
+Available
+
+CMG5974670
+
+Photo is
+Available
+
+CMG9030743
+
+Photo is
+Available
+
+RNM0355651
+
+Photo is
+Available
+
+RNM0226308
+
+Photo is
+Available
+
+RNM0345702
+
+Photo is
+Available
+
+RNM0257642
+Name: Geeta Sanjay Sawant
+Husband's Name: Sanjay Gangaram
+Sawant
+House Number: 195
+Age: 47 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0193854
+Name: Swapnil S. Chodankar
+Father's Name: Santosh D. Chodankar
+House Number: 195/1
+
+Age: 36 Gender: MALE Photo is
+
+Available
+
+RNM0355669
+Name: Pratikesh Prakash Mayenkar
+Father's Name: Prakash Mayenkar
+House Number: 195/1
+
+Age: 20 Gender: MALE Photo is
+
+Available
+
+RNM0262253
+Name: Richa Naik
+Husband's Name : Ramesh Naik
+House Number: 195/1
+
+Age: 50 Gender: FEMALE Photo is
+
+Available
+
+CMG5974639
+Name : Vishwas Sawant Subhedar
+Father's Name : Vithoba Sawant
+Subhedar
+House Number: 195/2
+Age: 45 Gender: MALE
+
+Photo is
+Available
+
+RNM0289454
+Name : Sneha Sawant Subhedar
+Husband's Name: Vinay Sawant
+Subhedar
+House Number: 195/2
+Age: 39 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0345819
+Name : Prabacar Saunto Sar Subedar
+Father's Name : Datarama Saunto Sar
+Subedar
+House Number: 195/3
+Age: 58 Gender: MALE
+
+Photo is
+Available
+
+RNM0224964
+Name: Santosh Dattaram Chodankar
+Father's Name: Dattaram Chodankar
+House Number: 195/4
+
+Age: 65 Gender: MALE Photo is
+
+Available
+
+CMG8429979
+Name : Anand Hari Naik
+Father's Name: Hari Naik
+House Number: 197
+
+Age: 52 Gender: MALE Photo is
+
+Available
+
+CMG9030263
+Name: Peter Marian Gomes
+Father's Name : Marian Gomes
+House Number: 199
+
+Age: 52 Gender: MALE Photo is
+
+Available
+
+Date of Publication:-01-11-2022
+
+Part number: 2
+
+CMG0940775
+Name: Shaila Sandeep Sawant
+Father's Name: Sandeep Sawant
+House Number: 195
+
+Age: 47 Gender: FEMALE Photo is
+
+Available
+
+CMG5973961
+Name: Prakash Laxman Mayenkar
+Father's Name - Laxman Mayenkar
+House Number: 195/1
+
+Age: 55 Gender: MALE Photo is
+
+Available
+
+RNM0345850
+Name: Kusum Balu Naik
+Husband's Name : Balu Naik
+House Number: 195/1
+
+Age: 83 Gender: FEMALE Photo is
+
+Available
+
+RNM0355685
+Name: Mangal Balu Naik
+Mother's Name : Kusum Balu Naik
+House Number: 195/41
+
+Age: 48 Gender: FEMALE Photo is
+
+Available
+
+RNM0253518
+Name : Sushma Sawant Subhedar
+Husband's Name : Vishwas Sawant
+Subhedar
+House Number: 195/2
+Age: 42 Gender: FEMALE
+
+Photo is
+Available
+
+CMG0039248
+Name : Kamalavati Chandrakant
+Shirodkar
+Husband's Name : Chandrakant
+Shirodkar
+House Number: 195/2
+Age: 82 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0366385
+Name: Rashmita Prabhakar Sawant
+Sarsubhedar
+Father's Name: Prabacar Saunto
+Sarsubhedar
+House Number: 195/3
+Age: 19 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0345801
+Name: Sukanti Santosh Chodankar
+Husband's Name : Santosh Chodankar
+House Number: 195/4
+
+Age: 59 Gender: FEMALE Photo is
+
+Available
+
+CMG8429789
+Name : Arti Anand Naik
+Husband's Name: Anand Naik
+House Number: 197
+
+Age: 49 Gender: FEMALE Photo is
+
+Available
+
+RNMO0190645
+Name: Zerina Gomes
+Husband's Name : Pedro Gomes
+House Number: 199
+
+Age: 47 Gender: FEMALE Photo is
+
+Available
+
+Total Pages 28 - Page 16

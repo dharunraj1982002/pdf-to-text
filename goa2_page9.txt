@@ -1,0 +1,290 @@
+Assembly Constituency No and Name : 15-Cumbarjua
+
+Section No and Name : 1-Malar, Sao Mathias
+
+CMG9030693
+Name : Justin Jose Coutinho
+Father's Name: Jose Coutinho
+House Number: 91
+
+Age: 88 Gender: MALE Photo is
+
+Available
+
+CMG9030727
+Name : Julian Coutinho
+Father's Name : Justin Coutinho
+House Number: 91
+
+Age: 55 Gender: MALE Photo is
+
+Available
+
+RNM0289462
+Name: Sunita Sanjay Velgenkar
+Husband's Name: Sanjay Velgenkar
+House Number: 96
+
+Age: 60 Gender: FEMALE Photo is
+
+Available
+
+RNMO0179119
+Name: Willbold Gomes
+Father's Name - Diogo Gomes
+House Number : 97
+
+Age: 31 Gender: MALE Photo is
+
+Available
+
+RNM0339085
+Name: Candida Henriques Gomes
+Husband's Name : Henriques Gomes
+House Number: 97/1
+
+Age: 53 Gender: FEMALE Photo is
+
+Available
+
+CMG1645738
+Name: Socorrino Gregorio Menezes
+Husband's Name: Gregorio Menezes
+House Number : 98/2
+
+Age: 48 Gender: FEMALE Photo is
+
+Available
+
+CMG5973862
+Name : Maria A. Cosme Menezes
+Husband's Name : Cosme Menezes
+House Number: 98/3
+
+Age: 54 Gender: FEMALE Photo is
+
+Available
+
+RNM0193417
+Name: Sharon Menezes
+Husband's Name: Christopher Vincy
+Menezes
+House Number : 99
+Age: 45 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0339044
+Name: Maria Clotilda Natalina De Abreu
+Husband's Name: Maximiano Filipe De
+Azavedo
+House Number: 101
+Age: 80 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0294983
+Name: Shannia Sharlen Azavedo
+Father's Name : lvo Mario Azavedo
+House Number: 102
+
+Age: 23 Gender: FEMALE Photo is
+
+Available
+
+Age as on 01.01.2023
+
+Name : Isabel Coutinho
+Husband's Name: Justin Coutinho
+House Number: 91
+
+Age: 84 Gender: FEMALE
+
+CMG0882555
+
+Photo is
+Available
+
+RNM0237412
+Name : Carmelina Godinho E Menezes
+Husband's Name : Amaral Piedade
+Menezes
+House Number : 95
+Age: 62 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0290585
+Name : Nalini Velgenkar
+Father's Name: Narayan Velgenkar
+House Number: 96
+
+Age: 57 Gender: FEMALE Photo is
+
+Available
+
+RNM0257659
+Name: Sinetra Rosebeth Gomes
+Father's Name - Diogo Antonio Gomes
+House Number : 97
+
+Age: 28 Gender: FEMALE Photo is
+
+Available
+
+CMG5974126
+Name: Narciso Xavier Menezes
+Father's Name: Xavier Menezes
+House Number: 98/2
+
+Age: 60 Gender: MALE Photo is
+
+Available
+
+RNM0363739
+Name: Dale Assumcia Menezes
+Menezes
+Father's Name: Gregorio Menezes
+House Number: 98/2
+Age: 19 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0072694
+Name : Sabina Menezes
+Husband's Name : Carlos Menezes
+House Number: 99
+
+Age: 76 Gender: FEMALE Photo is
+
+Available
+
+RNMO0073171
+Name: Christina Vailencia Menezes
+Father's Name: Mathias Carlos
+Francisco Xavie
+House Number : 99
+Age: 35 Gender: FEMALE
+
+Photo is
+Available
+
+CMG0882035
+Name : lvo Carlos Azavedo
+Father's Name: Carlos Azavedo
+House Number: 102
+
+Age: 61 Gender: MALE Photo is
+
+Available
+
+RNM0301200
+Name : Leshwan Mathias Azavedo
+Father's Name : lvo Mario Azavedo
+House Number: 102
+
+Age: 22 Gender: MALE Photo is
+
+Available
+
+Date of Publication:-01-11-2022
+
+Part number: 2
+
+RNM0212415
+Name : Jason Isidore Coutinho
+Father's Name: Justin Bruno Coutinho
+House Number: 91
+Age: 58 Gender: MALE Photo is
+
+Available
+
+RNMO0072462
+Name : Amaral Piedade Menezes
+Father's Name : Aurelio Caetano
+Joaquim Menezes
+House Number: 95
+Age: 67 Gender: MALE
+
+Photo is
+Available
+
+RNM0339101
+Name: Precila Diogo Gomes
+Husband's Name : Diogo Gomes
+House Number: 97
+
+Age: 53 Gender: FEMALE Photo is
+
+Available
+
+RNM0339093
+Name: Henriques Antonio Gomes
+Father's Name: Antonio Gomes
+House Number : 97/1
+Age: 54 Gender: MALE Photo is
+
+Available
+
+RNM0339069
+Name: Gregorio F. Menezes
+Father's Name: Bras X.S. Menezes
+House Number : 98/2
+Age: 56 Gender: MALE Photo is
+
+Available
+
+CMG8429938
+Name : Cosme Xavier Menezes
+Father's Name: Xavier Menezes
+House Number : 98/3
+
+Age: 63 Gender: MALE Photo is
+
+Available
+
+RNM0339051
+
+Name: Christopher Vincy Menezes
+Father's Name: Mathias Carlos F. X.
+Menezes
+
+House Number: 99
+
+Age: 50 Gender: MALE
+
+Photo is
+Available
+
+CMG0882084
+Name: Francis Philip Azavedo
+Father's Name : Philip Azavedo
+House Number: 101
+
+Age: 51 Gender: MALE Photo is
+
+Available
+
+RNM025/7626
+Name: Arantxa Azavedo
+Father's Name : lvo Mario Azavedo
+House Number: 102
+
+Age: 28 Gender: FEMALE Photo is
+
+Available
+
+CMG0882209
+Name: Bernadete De Souza
+Husband's Name : lvo Mario Azavedo
+House Number: 102
+
+Age: 54 Gender: FEMALE Photo is
+
+Available
+
+Total Pages 28 - Page 10

@@ -1,0 +1,328 @@
+Assembly Constituency No and Name: 12-Taleigao
+
+Section No and Name : 13-Near Apteshwar Temple, St. Inez
+
+Name: Suresh Veluskar
+Father's Name: Suresh Veluskar
+House Number: 263
+
+Age: 70 Gender: MALE
+
+Name: Sindura Veluskar
+Father's Name: Suresh Veluskar
+House Number: 263
+
+Age: 33 Gender: FEMALE
+
+Name: Ramchandra Gawas
+Father's Name: Mosso Gawas
+House Number: 263/1
+
+Age: 43 Gender: MALE
+
+Name: MIHIR VERENCAR
+
+Father's Name: BABANI VERENCAR
+
+House Number : 264/1
+Age: 21 Gender: MALE
+
+Name: Gajanan Redkar
+Father's Name : Babu Redkar
+House Number : 267
+
+Age: 61 Gender: MALE
+
+Name: Dayanand Veluskar
+Father's Name: Manohar Veluskar
+House Number : 267
+
+Age: 56 Gender: MALE
+
+Name: Asha Veluskar
+
+Husband's Name: Rajesh Veluskar
+House Number : 267
+
+Age: 44 Gender: FEMALE
+
+Name: Manasvi Dayanand Veluskar
+Father's Name - Dayanand Veluskar
+House Number: 267
+
+Age: 19 Gender: FEMALE
+
+Name: Ranjani Kaviekar
+Husband's Name: Gajanand Kavlekar
+House Number : 269
+
+Age: 82 Gender: FEMALE
+
+Name: Deepika Kaviekar
+Husband's Name : Babush Kavlekar
+House Number: 269
+
+Age: 56 Gender: FEMALE
+
+Age as on 01.01.2023
+
+INX0417188
+
+Photo is
+Available
+
+INX0245795
+
+Photo is
+Available
+
+CCQ9304890
+
+Photo is
+Available
+
+INX0439950
+
+Photo is
+Available
+
+INX0366674
+
+Photo is
+Available
+
+INX0417147
+
+Photo is
+Available
+
+INX0440057
+
+Photo is
+Available
+
+INX0448027
+
+Photo is
+Available
+
+INX0417113
+
+Photo is
+Available
+
+CCQ2630119
+
+Photo is
+Available
+
+Name: Suvarna Veluskar
+Husband's Name: Suresh Veluskar
+House Number: 263
+
+Age: 63 Gender: FEMALE
+
+Name: Chaitainya Veluskar
+Father's Name: Suresh Veluskar
+House Number : 263
+
+Age: 29 Gender: MALE
+
+Name: Chaya Verencar
+Husband's Name: Babani Verencar
+House Number: 264/1
+
+Age: 38 Gender: FEMALE
+
+Name: Urmila Samir Vernecar
+Father's Name: Samir Vernecar
+House Number: 264/1
+
+Age: 40 Gender: FEMALE
+
+Name : Deepashri Veluskar
+Husband's Name : Dilip Veluskar
+House Number : 267
+
+Age: 59 Gender: FEMALE
+
+Name: Neela Veluskar
+
+Father's Name : Manohar Veluskar
+House Number: 267
+
+Age: 45 Gender: FEMALE
+
+Name: Veeveedha Veluskar
+Father's Name : Dilip Veluskar
+House Number: 267
+
+Age: 31 Gender: FEMALE
+
+Name: Suraj Nageshkar
+
+Father's Name: Shrikant Nageshkar
+House Number: 267/1
+
+Age: 48 Gender: MALE
+
+Name : Milan Kavlekar
+
+Father's Name: Gajanan Kavlekar
+House Number: 269
+
+Age: 62 Gender: FEMALE
+
+Name: Sanjay Kaviekar
+
+Father's Name: Gajanand Kaviekar
+House Number: 269
+
+Age: 55 Gender: MALE
+
+Date of Publication:-01-11-2022
+
+INX0245803
+
+Photo is
+Available
+
+INX0324145
+
+Photo is
+Available
+
+CCQ2631422
+
+Photo is
+Available
+
+INX0343418
+
+Photo is
+Available
+
+INX0417154
+
+Photo is
+Available
+
+INX0244889
+
+Photo is
+Available
+
+INX0337311
+
+Photo is
+Available
+
+CCQ2630473
+
+Photo is
+Available
+
+INX0309286
+
+Photo is
+Available
+
+INX0417097
+
+Photo is
+Available
+
+Part number : 4
+
+INX0280347
+Name : Shruti Veluskar
+Father's Name: Sadanand Veluskar
+House Number : 263
+
+Age: 38 Gender: FEMALE Photo is
+
+Available
+
+CCQ9304924
+Name: Vimal Gawas
+Husband's Name : Harichandra Gawas
+House Number: 263/1
+
+Age: 52 Gender: FEMALE Photo is
+
+Available
+
+RNM0187492
+Name : Nikita Verencar
+Husband's Name : Vinay Verencar
+House Number: 264/1
+
+Age: 35 Gender: FEMALE Photo is
+
+Available
+
+INX0417162
+Name : Prema Vernekar
+Husband's Name: Vassudev Vernekar
+House Number: 264/1
+
+Age: 82 Gender: FEMALE Photo is
+
+Available
+
+INX0352336
+Name : Sheila Veluskar
+Father's Name : Manohar Veluskar
+House Number: 267
+
+Age: 58 Gender: FEMALE Photo is
+
+Available
+
+INX0280412
+Name: Dipika Veluskar
+Husband's Name: Dayanand Veluskar
+House Number : 267
+
+Age: 45 Gender: FEMALE Photo is
+
+Available
+
+INX0343426
+Name: Samaya Veluskar
+Mother's Name: Deepashri Veluskar
+House Number: 267
+
+Age: 28 Gender: FEMALE Photo is
+
+Available
+
+CCQ0682294
+Name: Sulochana Nageshkar
+Husband's Name: Shrikant Nageshkar
+House Number: 267/A
+
+Age: 67 Gender: FEMALE Photo is
+
+Available
+
+INX0417105
+Name: Babuso Gajanan Kavlekar
+Father's Name: Gajanan Kavlekar
+House Number - 269
+
+Age: 59 Gender: MALE Photo is
+
+Available
+
+INX0370122
+Name: Samiksha Kavlekar
+Father's Name: Babuso Gajanan
+Kavlekar
+House Number - 269
+Age: 26 Gender: FEMALE
+
+Photo is
+Available
+
+Total Pages 29 - Page 19

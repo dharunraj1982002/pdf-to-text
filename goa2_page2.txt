@@ -1,0 +1,355 @@
+Assembly Constituency No and Name : 15-Cumbarjua
+
+Section No and Name : 1-Malar, Sao Mathias
+
+Name: Akash Velingkar
+Father's Name: Ulhas Velingkar
+House Number: 01
+
+Age: 22 Gender: MALE
+
+Name: Ulhas Babusso Velingkar
+Father's Name: Babusso Velingkar
+House Number = 1
+
+Age: 61 Gender: MALE
+
+Name: Aparna Velingkar
+Father's Name: Ulhas Velingkar
+House Number : 1
+
+Age: 27 Gender: FEMALE
+
+Name: Gulabi Ghanshym Kerkar
+
+Husband's Name : Ghanshym Kerkar
+
+House Number : 2/1
+Age: 58 Gender: FEMALE
+
+Name :- Sampada Bhikaji Kerkar
+Father's Name: Bhikaji Kerkar
+House Number: 2/2
+
+Age: 37 Gender: FEMALE
+
+Name: Geeta Rajendra Tari
+Husband's Name: Rajendra Tari
+House Number: 4
+
+Age: 53 Gender: FEMALE
+
+Name : Sarita Anant Priolkar
+Husband's Name: Anant Priolkar
+House Number: 5/2
+
+Age: 56 Gender: FEMALE
+
+Name: Sunny Anant Priolker
+Father's Name : Anant Priolker
+House Number: 5/2
+
+Age: 37 Gender: MALE
+
+Name: Gurudas Mohan Chari
+
+Father's Name : Mohan Laxman Chari
+
+House Number : 6
+Age: 25 Gender: MALE
+
+Name: Nilesh Eknath Bhomkar
+Father's Name: Eknath Bhomkar
+House Number: 7
+
+Age: 48 Gender: MALE
+
+Age as on 01.01.2023
+
+RNM0301218
+
+Photo is
+Available
+
+RNM0208264
+
+Photo is
+Available
+
+RNM0271189
+
+Photo is
+Available
+
+RNM0340836
+
+Photo is
+Available
+
+CMG0941179
+
+Photo is
+Available
+
+CMG5973219
+
+Photo is
+Available
+
+CMG0965996
+
+Photo is
+Available
+
+CMG0968693
+
+Photo is
+Available
+
+RNM0280677
+
+Photo is
+Available
+
+CMG5974696
+
+Photo is
+Available
+
+Name : Laxmi Babusso Velingkar
+
+Husband's Name: Babusso Velingkar
+
+House Number: 1
+Age: 84 Gender: FEMALE
+
+Name : Uma Velingkar
+
+Husband's Name: Ulhas Velingkar
+House Number: 1
+
+Age: 52 Gender: FEMALE
+
+Name : Anupama Ulhas Velingkar
+Father's Name : Ulhas Velingkar
+House Number : 1
+
+Age: 26 Gender: FEMALE
+
+Name: Geetanjali Kerkar
+
+Father's Name - Ghanshym Jaivant
+Kerkar
+
+House Number: 2/1
+
+Age: 32 Gender: FEMALE
+
+Name: Jamuvant Namdeo Tari
+Father's Name: Namdeo Tari
+House Number: 4
+
+Age: 83 Gender: MALE
+
+Name: Tanvi Rajendra Tari
+Father's Name: Rajendra Jamuvant
+Tari
+
+House Number: 4
+
+Age: 26 Gender: FEMALE
+
+Name: Saee Priolkar
+
+Father's Name: Anant Priolkar
+House Number: 5/2
+
+Age: 32 Gender: FEMALE
+
+Name :- Mohan Laxman Chari
+Father's Name : Laxman Chari
+House Number: 6
+
+Age: 68 Gender: MALE
+
+Name: Nitesh E. Bhomkar
+Father's Name: Eknath Bhomkar
+House Number: 07
+
+Age: 33 Gender: MALE
+
+Name: Aarti Bhomkar
+Husband's Name: Nilesh Eknath
+Bhomkar
+
+House Number: 7
+
+Age: 40 Gender: FEMALE
+
+Date of Publication:-01-11-2022
+
+RNM0340869
+
+Photo is
+Available
+
+RNM0208314
+
+Photo is
+Available
+
+RNM0279893
+
+Photo is
+Available
+
+RNM0232868
+
+Photo is
+Available
+
+RNM0340687
+
+Photo is
+Available
+
+RNM0277889
+
+Photo is
+Available
+
+RNM0190520
+
+Photo is
+Available
+
+RNM0340661
+
+Photo is
+Available
+
+RNMO0179051
+
+Photo is
+Available
+
+RNM0239657
+
+Photo is
+Available
+
+Part number: 2
+
+Name: Sachchit Babusso Velingkar
+Father's Name: Babusso Velingkar
+House Number: 1
+
+Age: 63 Gender: MALE
+
+Name : Sanjana Velingkar
+Husband's Name: Sachit Velingkar
+House Number : 1
+
+Age: 47 Gender: FEMALE
+
+Name: Ghanshym Jaivant Kerkar
+Father's Name: Jaivant Kerkar
+House Number: 2/1
+
+Age: 66 Gender: MALE
+
+Name : Deepak Bhikaji Kerkar
+Father's Name : Bhikaji Kerkar
+House Number : 2/2
+
+Age: 41 Gender: MALE
+
+Name: Rajendra Jamuvant Tari
+Father's Name: Jamuvant Tari
+House Number: 4
+
+Age: 61 Gender: MALE
+
+Name : Siddhi Rajendra Tari
+Father's Name: Rajendra Jamuvant
+Tari
+
+House Number: 4
+
+Age: 24 Gender: FEMALE
+
+Name: Sudesh Rama Priolker
+Father's Name: Rama Priolker
+House Number: 5/2
+
+Age: 58 Gender: MALE
+
+Name : Madhuri Mohan Chari
+Husband's Name: Mohan Chari
+House Number: 6
+
+Age: 62 Gender: FEMALE
+
+Name: Kanti Eknath Bhomkar
+Husband's Name : Eknath Bhomkar
+House Number: 7
+
+Age: 66 Gender: FEMALE
+
+Name : Swapnil Eknath Bhomkar
+Father's Name : Eknath Bhomkar
+House Number : 7
+
+Age: 36 Gender: MALE
+
+RNM0340851
+
+Photo is
+Available
+
+RNM0191676
+
+Photo is
+Available
+
+RNM0340844
+
+Photo is
+Available
+
+CMG0941195
+
+Photo is
+Available
+
+RNM0340679
+
+Photo is
+Available
+
+RNM0283374
+
+Photo is
+Available
+
+RNM0232637
+
+Photo is
+Available
+
+RNM0340653
+
+Photo is
+Available
+
+CMG5974035
+
+Photo is
+Available
+
+CMG0940940
+
+Photo is
+Available
+
+Total Pages 28 - Page 3

@@ -1,0 +1,317 @@
+Assembly Constituency No and Name : 15-Cumbarjua
+
+Section No and Name : 1-Malar, Sao Mathias
+
+Name: Maria Ena Vas
+
+Husband's Name: Francisco Jorge Vas
+House Number : 40
+
+Age: 65 Gender: FEMALE
+
+Name : Laura Luiza M. Menezes
+Husband's Name: Arvind Caetano
+Menezes
+
+House Number: 41
+
+Age: 48 Gender: FEMALE
+
+Name : Santosh Sadanand Lotlekar
+Father's Name: Sadanand Lotlekar
+House Number: 42
+
+Age: 60 Gender: MALE
+
+Name : Nikita Lotlekar
+
+Father's Name: Santosh Lotlekar
+House Number: 42
+
+Age: 27 Gender: FEMALE
+
+Name: Sujata Rama Kerkar
+Father's Name : Rama Kerkar
+House Number: 48
+
+Age: 42 Gender: FEMALE
+
+Name: Alcina Lowrencio Valles
+Husband's Name : Lowrencio Valles
+House Number: 53/2
+
+Age: 68 Gender: FEMALE
+
+Name: Jane Anthonette Heredia
+Mother's Name: Vilma Jenia Heredia
+House Number: 53/A
+
+Age: 30 Gender: FEMALE
+
+Name : Louis Soccour Monteiro
+Father's Name: German Monteiro
+House Number: 54
+
+Age: 49 Gender: MALE
+
+Name: Lenin Peter Gomes
+Father's Name : Peter Gomes
+House Number: 55
+
+Age: 48 Gender: MALE
+
+Name: Tina Gomes
+
+Husband's Name: Romulus Cosme
+Peter Gomes
+
+House Number: 55
+
+Age: 42 Gender: FEMALE
+
+Age as on 01.01.2023
+
+RNM0306076
+
+Photo is
+Available
+
+RNM0340000
+
+Photo is
+Available
+
+RNM0339960
+
+Photo is
+Available
+
+RNM0264820
+
+Photo is
+Available
+
+CMG8434136
+
+Photo is
+Available
+
+RNM033991 1
+
+Photo is
+Available
+
+RNM0252619
+
+Photo is
+Available
+
+RNM0208249
+
+Photo is
+Available
+
+RNM0236570
+
+Photo is
+Available
+
+RNM0257600
+
+Photo is
+Available
+
+Name: Santana Xavier Redempto Da
+Costa
+
+Father's Name: Jose Cruzinho Da
+Costa
+
+House Number : 40/1
+
+Age: 66 Gender: MALE
+
+RNM0223743
+
+Photo is
+Available
+
+RNM0339994
+Name: Mahadev Parashuram Lotlekar
+Father's Name : Parshuram Lotlekar
+House Number: 42
+
+Age: 86 Gender: MALE Photo is
+
+Available
+
+RNM0339978
+Name: Rasika Mahadev Lotlekar
+Father's Name : Sadanand Lotlekar
+House Number: 42
+
+Age: 60 Gender: FEMALE Photo is
+
+Available
+
+RNM0339945
+Name: Maria Vitoria Natty D'Mello
+Husband's Name : Natty D'Mello
+House Number : 47/1
+
+Age: 84 Gender: FEMALE Photo is
+
+Available
+
+RNM0339937
+Name : German Cursino Rebello
+Father's Name: Cursino Rebello
+House Number: 53/1
+
+Age: 82 Gender: MALE Photo is
+
+Available
+
+CMG5974720
+Name : Efi Oliver D'Mello
+Husband's Name: Oliver D'Mello
+House Number : 53/4
+
+Age: 59 Gender: FEMALE Photo is
+
+Available
+
+RNM0257592
+Name : Jessel Fatima Heredia
+Father's Name: Joao Xavier Agnelo
+Heredia
+House Number: 53/A
+Age: 28 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0190454
+Name: Jovela Pereira E Monteiro
+Husband's Name : Louis Succour
+Monteiro
+House Number: 54
+Age: 40 Gender: FEMALE
+
+Photo is
+Available
+
+CMG0882365
+Name : Romulus Cosme Peter Gomes
+Father's Name: Peter Gomes
+House Number : 55
+
+Age: 44 Gender: MALE Photo is
+
+Available
+
+RNM0339812
+Name: Anthony Bernardin Gomes
+Father's Name : Bernardin Gomes
+House Number : 56/1
+
+Age: 59 Gender: MALE Photo is
+
+Available
+
+Date of Publication:-01-11-2022
+
+Part number: 2
+
+RNM0072678
+Name : Carmen Lena Da Costa
+Husband's Name: Santana Xavier
+Redempto Da Costa
+House Number: 40/1
+Age: 61 Gender: FEMALE
+
+Photo is
+Available
+
+RNM0339986
+Name: Radhabai Sadanand Lotlekar
+Husband's Name : Sadanand Lotlekar
+House Number: 42
+
+Age: 78 Gender: FEMALE Photo is
+
+Available
+
+RNM0339952
+Name: Sundarabai Santosh Lotlekar
+Husband's Name : Santosh Lotlekar
+House Number: 42
+
+Age: 53 Gender: FEMALE Photo is
+
+Available
+
+RNM0208298
+Name: Vijay Kerkar
+Husband's Name : Rama Kerkar
+House Number: 48
+
+Age: 67 Gender: FEMALE Photo is
+
+Available
+
+RNM0339929
+Name: Zita German Rebello
+Husband's Name: German Rebello
+House Number: 53/1
+
+Age: 72 Gender: FEMALE Photo is
+
+Available
+
+CMG5973888
+Name : Vilma Heredia
+Father's Name: Matias Vaz
+House Number : 53/A
+
+Age: 59 Gender: FEMALE Photo is
+
+Available
+
+CMG0161695
+Name : Josefina Alina German Monteiro
+Husband's Name : German Monteiro
+House Number: 54
+
+Age: 78 Gender: FEMALE Photo is
+
+Available
+
+CMG0882316
+Name: Belinda Peter Gomes
+Husband's Name: Peter Gomes
+House Number: 55
+
+Age: 75 Gender: FEMALE Photo is
+
+Available
+
+CMG0882373
+Name : Remus Damiao Peter Gomes
+Father's Name: Peter Gomes
+House Number: 55
+Age: 44 Gender: MALE Photo is
+
+Available
+
+CMG0425082
+Name: Anna Clementine Anthony
+Gomes
+Husband's Name: Anthony Gomes
+House Number : 56/1
+Age: 55 Gender: FEMALE
+
+Photo is
+Available
+
+Total Pages 28 - Page 7
